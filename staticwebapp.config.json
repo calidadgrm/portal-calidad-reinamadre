@@ -1,0 +1,6 @@
+{
+  "globalHeaders": {
+    "X-Frame-Options": "ALLOW-FROM https://reinamadre.sharepoint.com",
+    "Content-Security-Policy": "frame-ancestors 'self' https://reinamadre.sharepoint.com"
+  }
+}
